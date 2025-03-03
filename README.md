@@ -13,7 +13,7 @@
 </pre>
 
 # 💫 0xRudeboy
-👨‍💻 Front End Developer<br>🔗 Blockchain Developer<br>💻 UI & UX Designer<br> <br> DM <a href="https://x.com/0xRudeboy">on X</a> for 🤝
+👨‍💻 Front End Developer<br>🔗 Blockchain Developer<br>💻 UI & UX Designer<br> <br> Find me <a href="https://x.com/0xRudeboy">on X</a> for 🤝
 
 <!--
 ## 💻 Technologies:
